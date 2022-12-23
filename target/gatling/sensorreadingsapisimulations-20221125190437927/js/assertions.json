@@ -1,0 +1,10 @@
+{
+  "simulation": "simulations.SensorReadingsAPISimulations",
+  "simulationId": "sensorreadingsapisimulations",
+  "start": 1669403077927,
+  "description": "t",
+  "scenarios": ["Add Sensor Readings"],
+  "assertions": [
+
+  ]
+}
