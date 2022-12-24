@@ -7,7 +7,7 @@ Use cases in which we currently utilize gatling at LiteFarm include:
 
 ## Set up
 
-- Go to https://gatling.io/docs/gatling/tutorials/installation/ and check out https://www.youtube.com/watch?v=TeVB2tyeWyw to setup gatling in your local system.
+- Go to [gatling docs to read about the scala implementation](https://gatling.io/docs/gatling/tutorials/installation/) and check out [this video](https://www.youtube.com/watch?v=TeVB2tyeWyw) to setup gatling in your local system.
 - After installation, got to the src/scala/simulations/engine file. 
 - Right click engine file and select "Run engine".  
 - This will run the files under simulation folder and will generate a performance test report.
