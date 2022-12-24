@@ -10,7 +10,7 @@ Use cases in which we currently utilize gatling at LiteFarm include:
 - After installation, got to the src/scala/simulations/engine file. 
 - Right click engine file and select "Run engine".  
 - This will run the files under simulation folder. This will generate a performance test report.
-- Go to target/gatling/<test-report>/index.html and open the performace test report file in the brower.
+- Go to target/gatling/YOUR-TEST-REPORT/index.html and open the performace test report file in the brower.
 
 You would find a report that will look like this: 
 
