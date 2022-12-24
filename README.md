@@ -1,4 +1,4 @@
-# Performance Testing of API for LiteFarm using Gatling 
+# Performance Testing of APIs for LiteFarm project using Gatling 
 
 ## Use cases for Gatling 
 Use cases in which we currently utilize gatling at LiteFarm include:
@@ -15,5 +15,6 @@ Use cases in which we currently utilize gatling at LiteFarm include:
 
 You would find a report that will look like this: 
 
+<img width="1083" alt="Screen Shot 2022-12-23 at 4 08 30 PM" src="https://user-images.githubusercontent.com/20675885/209414613-c355ff92-bd30-471d-b5ae-21616869c28e.png">
 
 
